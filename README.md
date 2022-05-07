@@ -1,5 +1,5 @@
 ## Name
-Tracking Changes in Demand and Pricing for Live Events
+### Tracking Changes in Demand and Pricing for Live Events
 
 ## Objective
 The goal of this project is to capture data on live events that can be used to make better informed decisions in the future regarding the buying and selling of tickets. This project tracks demand and pricing for shows over time on Vividseats.com to gauge demand, and also utilizes event information from Ticketmaster to predict the profitability of future events.
