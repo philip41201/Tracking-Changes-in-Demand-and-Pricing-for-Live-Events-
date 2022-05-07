@@ -15,12 +15,16 @@ I sourced my data from 3 places: Ticketmaster, Vividseats, and Google. I utilize
 ## Notebooks
 Ticketmaster: https://github.com/philip41201/Tracking-Changes-in-Demand-and-Pricing-for-Live-Events-/blob/main/ticketmaster_data_collection.ipynb
     - Utilizes Ticketmaster's API to grab event details.
+
 Vividseats: https://github.com/philip41201/Tracking-Changes-in-Demand-and-Pricing-for-Live-Events-/blob/main/vividseats_data_collection.ipynb\
     - Web scrape Vividseats.com to grab important listing details, such as minimum/maximum price and listing/ticket count.
+
 Venue: https://github.com/philip41201/Tracking-Changes-in-Demand-and-Pricing-for-Live-Events-/blob/main/venue_data_collection.ipynb
     - Web scrape Google searches on venues to grab the address and capacity.
+
 SQL Analysis: https://github.com/philip41201/Tracking-Changes-in-Demand-and-Pricing-for-Live-Events-/blob/main/sql_analysis.ipynb
     - SQL queries to answer business questions and provide recommendations.
+
 Presentation: https://github.com/philip41201/Tracking-Changes-in-Demand-and-Pricing-for-Live-Events-/blob/main/presentation.ipynb
     - Combination of all the other notebooks.
 
