@@ -14,6 +14,7 @@ I sourced my data from 3 places: Ticketmaster, Vividseats, and Google. I utilize
 
 ## Notebooks
 Ticketmaster: https://github.com/philip41201/Tracking-Changes-in-Demand-and-Pricing-for-Live-Events-/blob/main/ticketmaster_data_collection.ipynb
+    
     - Utilizes Ticketmaster's API to grab event details.
 
 Vividseats: https://github.com/philip41201/Tracking-Changes-in-Demand-and-Pricing-for-Live-Events-/blob/main/vividseats_data_collection.ipynb\
